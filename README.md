@@ -1,2 +1,5 @@
 # Demo
-This is my first reprository
+This is my first Git Reprository
+Author - Md Farhan Habib
+
+
